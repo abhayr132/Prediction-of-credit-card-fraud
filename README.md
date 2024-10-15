@@ -11,7 +11,7 @@ The dataset contains transactions made by credit cards in September 2013 by Euro
 # Project Pipeline
 The following is recommendation of the steps that should be employed towards attempting to solve this problem statement: 
 
-   Exploratory Data Analysis: Analyze and understand the data to identify patterns, relationships, and trends in the data by using Descriptive Statistics and 
+   ##Exploratory Data Analysis: Analyze and understand the data to identify patterns, relationships, and trends in the data by using Descriptive Statistics and 
    Visualizations. 
 		
    Data Cleaning: This might include standardization, handling the missing values and outliers in the data. 
